@@ -27,5 +27,4 @@ public class P52_PeakElementInBitonicArray {
         }
         return -1;
     }
-
 }
